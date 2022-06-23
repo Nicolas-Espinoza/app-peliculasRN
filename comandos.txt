@@ -1,0 +1,5 @@
+https://github.com/meliorence/react-native-snap-carousel
+
+yarn add -D @types/react-native-snap-carousel
+yarn add react-native-vector-icons
+npx react-native run-android
